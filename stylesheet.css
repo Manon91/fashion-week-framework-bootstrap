@@ -1,0 +1,13 @@
+#logo {
+	width: 5em;
+}
+
+.jumbotron {
+	background-image: url(/Users/Admin/OneDrive/Documents/cours/Formation_dev_web/Travaux/Travaux_en_groupe/Fashion_week_framework_css/udemy/42c7fc6c-ada8-41fa-ac3d-df89623ca315.jpg);
+}
+
+.banniere {
+	background: linear-gradient(-45deg,#ec5252,#6e1a52);
+    display: flex;
+    justify-content: space-around;
+  }
